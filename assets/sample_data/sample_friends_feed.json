@@ -1,0 +1,46 @@
+{
+    "feed": [
+        {
+            "id": "1",
+            "profileImageUrl": "assets/magazine_pics/android_logo.png",
+            "comment": "We Make Android Apps",
+            "foodPictureUrl": "assets/magazine_pics/android_logo.png",
+            "timestamp": "Since 2015"
+        },
+        {
+            "id": "2",
+            "profileImageUrl": "assets/magazine_pics/ios.png",
+            "comment": "We Make IOS Apps",
+            "foodPictureUrl": "assets/magazine_pics/ios.png",
+            "timestamp": "Since 2017"
+        },
+        {
+            "id": "3",
+            "profileImageUrl": "assets/magazine_pics/web_design.jpg",
+            "comment": "We Make Websites",
+            "foodPictureUrl": "assets/magazine_pics/web_design.jpg",
+            "timestamp": "Since 2020"
+        },
+        {
+            "id": "4",
+            "profileImageUrl": "assets/magazine_pics/email_logo.png",
+            "comment": "We Do Email Hosting",
+            "foodPictureUrl": "assets/magazine_pics/email_logo.png",
+            "timestamp": "Since 2020"
+        },
+        {
+            "id": "5",
+            "profileImageUrl": "assets/magazine_pics/systems_dev.jpg",
+            "comment": "We Make Desktop Systems",
+            "foodPictureUrl": "assets/magazine_pics/systems_dev.jpg",
+            "timestamp": "Since 2020"
+        },
+        {
+            "id": "6",
+            "profileImageUrl": "assets/magazine_pics/woman.png",
+            "comment": "We Do Web Hosting",
+            "foodPictureUrl": "assets/magazine_pics/woman.png",
+            "timestamp": "Since 2020"
+        }
+    ]
+}
